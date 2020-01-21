@@ -20,17 +20,13 @@ Extension methods for file I/O performed using file path Strings:
 - string.**LoadJPG**
 - string.**LoadBMP**
 - string.**LoadICO**
+
+Extension methods for file I/O performed using Bitmaps:
+
 - bitmap.**SaveToPNG**
 - bitmap.**SaveToJPG**
 - bitmap.**SaveToBMP**
 - icon.**SaveToICO**
-
-Extension methods for file I/O performed using Bitmaps:
-
-- icon.**EncodeICO**
-- bitmap.**EncodePNG**
-- bitmap.**EncodeJPG**
-- bitmap.**EncodeBMP**
 
 Extension methods for Bitmap objects:
 
